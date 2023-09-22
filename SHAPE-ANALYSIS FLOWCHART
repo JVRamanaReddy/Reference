@@ -1,0 +1,45 @@
+THE REFERENCES FOR THE CITATIONS MENTIONED IN THE SHAPE-ANALYSIS FLOWCHART
+
+•	[Freeman, 1961] Freeman, H. (1961). On the encoding of arbitrary geometric configurations. IRE Transactions on Electronic computers, (2), 260-268.
+
+•	[Persoon et al., 1977] Persoon, E., & Fu, K. S. (1977). Shape discrimination using Fourier descriptors. IEEE Transactions on systems, man, and cybernetics, 7(3), 170-179.
+
+•	[Granlund, 1972] Granlund, G. H. (1972). Fourier preprocessing for hand print character recognition. IEEE transactions on computers, 100(2), 195-201.
+
+•	[Zahn et al., 1972] Zahn, C. T., & Roskies, R. Z. (1972). Fourier descriptors for plane closed curves. IEEE Transactions on computers, 100(3), 269-281.
+
+•	[Blum, 1973] Blum, H. (1973). Biological shape and visual science (Part I). Journal of theoretical Biology, 38(2), 205-287.
+
+•	[Fu, 1974] Fu, K. S. (1974). Syntactic methods in pattern recognition. Elsevier.
+
+•	[Young et al., 1974] Young, I. T., Walker, J. E., & Bowie, J. E. (1974). An analysis technique for biological shape. I. Information and control, 25(4), 357-370.
+
+•	[Kashyap et al., 1981] Kashyap, R., & Chellappa, R. (1981). Stochastic models for closed boundary analysis: Representation and reconstruction. IEEE transactions on Information Theory, 27(5), 627-637.
+
+•	[Kuhl et al., 1982] Kuhl, F. P., & Giardina, C. R. (1982). Elliptic Fourier features of a closed contour. Computer graphics and image processing, 18(3), 236-258.
+
+•	[Ikebe et al., 1982] Ikebe, Y., & Miyamoto, S. (1982). Shape design, representation, and restoration with splines. Picture Engineering, 75-95.
+
+•	[Goshtasby, 1985] Goshtasby, A. (1985). Description and discrimination of planar shapes using shape matrices. IEEE Transactions on Pattern Analysis and Machine Intelligence, (6), 738-743.
+
+•	[Bookstein, 1986] Bookstein, F. L. (1986). Size and shape spaces for landmark data in two dimensions. Statistical science, 1(2), 181-222.
+•	[Van Otterloo, 1988] Van Otterloo, P. J. (1988). A contour-oriented approach to digital shape analysis.
+
+•	[Das et al., 1990] Das, M., Paulik, M. J., & Loh, N. K. (1990). A bivariate autoregressive technique for analysis and classification of planar shapes. IEEE Transactions on Pattern Analysis and Machine Intelligence, 12(1), 97-103.
+
+•	[Pitas et al., 1990] Pitas, I., & Venetsanopoulos, A. N. (1990). Morphological shape decomposition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 12(1), 38-45.
+
+•	[Bengtsson et al., 1991] Bengtsson, A., & Eklundh, J. O. (1991). Shape representation by multiscale contour approximation. IEEE Transactions on Pattern Analysis & Machine Intelligence, 13(01), 85-93.
+
+•	[Lin et al., 1992] Lin, Y., Dou, J., & Wang, H. (1992). Contour shape description based on an arch height function. Pattern Recognition, 25(1), 17-23.
+
+•	[Prokop et al., 1992] Prokop, R. J., & Reeves, A. P. (1992). A survey of moment-based techniques for unoccluded object representation and recognition. CVGIP: Graphical Models and Image Processing, 54(5), 438-460.
+
+•	[Jagadish et al, 1992] Jagadish, H. V., & Bruckstein, A. M. (1992). On sequential shape descriptions. Pattern Recognition, 25(2), 165-172.
+
+•	[Wu et al., 1993] Wu, J. S., & Leou, J. J. (1993). New polygonal approximation schemes for object shape representation. Pattern Recognition, 26(4), 471-484.
+
+•	[Zhang et al., 2002] Zhang, D., & Lu, G. (2002, January). A comparative study of Fourier descriptors for shape representation and retrieval. In Proc. 5th Asian Conference on Computer Vision (p. 35). Citeseer.
+
+•	[Yadav et al., 2007] Yadav, R. B., Nishchal, N. K., Gupta, A. K., & Rastogi, V. K. (2007). Retrieval and classification of shape-based objects using Fourier, generic Fourier, and wavelet-Fourier descriptors technique: A comparative study. Optics and Lasers in engineering, 45(6), 695-708.
+
